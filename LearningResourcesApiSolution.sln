@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningResourcesApi", "LearningResourcesApi\LearningResourcesApi.csproj", "{DFFF613E-61E4-4BB5-815A-D8892DCA2EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFF613E-61E4-4BB5-815A-D8892DCA2EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFF613E-61E4-4BB5-815A-D8892DCA2EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFF613E-61E4-4BB5-815A-D8892DCA2EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFF613E-61E4-4BB5-815A-D8892DCA2EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E304F1B5-F5D1-473E-95FE-685AC0DC015F}
+	EndGlobalSection
+EndGlobal
